@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "610398575405",
+    "firebase_url": "https://fir-dbtest-2fd3e.firebaseio.com",
+    "project_id": "fir-dbtest-2fd3e",
+    "storage_bucket": "fir-dbtest-2fd3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610398575405:android:b3040ee7af4d66ae",
+        "android_client_info": {
+          "package_name": "com.teach06.thesh.fbdbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610398575405-efkcb2g9ge8ji5i5pcsfqc1lcbjh6eac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teach06.thesh.fbdbtest",
+            "certificate_hash": "f28cbc840cef5133285a379b37dacf212a1afddd"
+          }
+        },
+        {
+          "client_id": "610398575405-tirpl92oenh5e3mdpb7ut6u6suoi63ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7w_cFx0ZyY03vhzWnYVQ8ZtM4MeWXO8"
+        },
+        {
+          "current_key": "AIzaSyBzhh6NqTuhr-qpAqBMczfonedPtNuof3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610398575405-tirpl92oenh5e3mdpb7ut6u6suoi63ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610398575405:android:3ab498e97f6da690",
+        "android_client_info": {
+          "package_name": "com.teach06.thesh.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610398575405-riuoru0pv8j6lprp9r17jhaa7jibsmku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teach06.thesh.listview",
+            "certificate_hash": "f28cbc840cef5133285a379b37dacf212a1afddd"
+          }
+        },
+        {
+          "client_id": "610398575405-tirpl92oenh5e3mdpb7ut6u6suoi63ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7w_cFx0ZyY03vhzWnYVQ8ZtM4MeWXO8"
+        },
+        {
+          "current_key": "AIzaSyBzhh6NqTuhr-qpAqBMczfonedPtNuof3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610398575405-tirpl92oenh5e3mdpb7ut6u6suoi63ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610398575405:android:1eb9ea2103162b7f",
+        "android_client_info": {
+          "package_name": "com.teach06.thesh.recyclerview_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610398575405-r62bhfu8citaskhjudk0smslbatla5g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teach06.thesh.recyclerview_fb",
+            "certificate_hash": "f28cbc840cef5133285a379b37dacf212a1afddd"
+          }
+        },
+        {
+          "client_id": "610398575405-tirpl92oenh5e3mdpb7ut6u6suoi63ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7w_cFx0ZyY03vhzWnYVQ8ZtM4MeWXO8"
+        },
+        {
+          "current_key": "AIzaSyBzhh6NqTuhr-qpAqBMczfonedPtNuof3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610398575405-tirpl92oenh5e3mdpb7ut6u6suoi63ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
